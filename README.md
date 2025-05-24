@@ -60,9 +60,4 @@ The proposed framework demonstrates:
 - **Superior accuracy**: >98% classification
 - **Efficient transfer learning**: Effective adaptation from DDSM to INbreast
 
-```python
-# Example usage
-from cad_system import BreastCAD
 
-model = BreastCAD(weights='ddsm_weights.h5')
-results = model.predict('mammogram.dcm')
