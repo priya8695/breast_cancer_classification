@@ -4,7 +4,7 @@
 
 This project presents an automated Computer-Aided Detection (CAD) system for breast mass classification using deep learning techniques. The system is designed to assist radiologists in the early detection of breast cancer by performing three key functions: suspicious region identification, mass/no-mass detection, and benign/malignant mass classification.
 
-![System Architecture](https://via.placeholder.com/800x400?text=System+Architecture+Diagram)
+
 
 ## Key Features
 
