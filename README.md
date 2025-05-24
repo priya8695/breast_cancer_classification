@@ -1,6 +1,4 @@
-# Breast Mass Classification using Deep Learning
 
-![Mammogram Analysis Pipeline](https://via.placeholder.com/800x400?text=Mammogram+Analysis+Pipeline) *(placeholder for system diagram)*
 
 ## Project Description
 
